@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Neha/static/css/main.d1f649eb.chunk.css",
-    "main.js": "/Neha/static/js/main.c806d684.chunk.js",
-    "main.js.map": "/Neha/static/js/main.c806d684.chunk.js.map",
-    "runtime-main.js": "/Neha/static/js/runtime-main.cd811be0.js",
-    "runtime-main.js.map": "/Neha/static/js/runtime-main.cd811be0.js.map",
-    "static/js/2.06d56d69.chunk.js": "/Neha/static/js/2.06d56d69.chunk.js",
-    "static/js/2.06d56d69.chunk.js.map": "/Neha/static/js/2.06d56d69.chunk.js.map",
+    "main.css": "/Neha/static/css/main.8ad67300.chunk.css",
+    "main.js": "/Neha/static/js/main.7242959c.chunk.js",
+    "main.js.map": "/Neha/static/js/main.7242959c.chunk.js.map",
+    "runtime-main.js": "/Neha/static/js/runtime-main.53169cb3.js",
+    "runtime-main.js.map": "/Neha/static/js/runtime-main.53169cb3.js.map",
+    "static/js/2.5047e79f.chunk.js": "/Neha/static/js/2.5047e79f.chunk.js",
+    "static/js/2.5047e79f.chunk.js.map": "/Neha/static/js/2.5047e79f.chunk.js.map",
     "static/css/3.c508d8b9.chunk.css": "/Neha/static/css/3.c508d8b9.chunk.css",
-    "static/js/3.026608d3.chunk.js": "/Neha/static/js/3.026608d3.chunk.js",
-    "static/js/3.026608d3.chunk.js.map": "/Neha/static/js/3.026608d3.chunk.js.map",
+    "static/js/3.3635a938.chunk.js": "/Neha/static/js/3.3635a938.chunk.js",
+    "static/js/3.3635a938.chunk.js.map": "/Neha/static/js/3.3635a938.chunk.js.map",
     "static/css/4.f0b7a320.chunk.css": "/Neha/static/css/4.f0b7a320.chunk.css",
-    "static/js/4.4ff0bbf9.chunk.js": "/Neha/static/js/4.4ff0bbf9.chunk.js",
-    "static/js/4.4ff0bbf9.chunk.js.map": "/Neha/static/js/4.4ff0bbf9.chunk.js.map",
+    "static/js/4.45693b54.chunk.js": "/Neha/static/js/4.45693b54.chunk.js",
+    "static/js/4.45693b54.chunk.js.map": "/Neha/static/js/4.45693b54.chunk.js.map",
     "index.html": "/Neha/index.html",
-    "precache-manifest.2b5a2b25b4e4b3fe112852a484448d14.js": "/Neha/precache-manifest.2b5a2b25b4e4b3fe112852a484448d14.js",
+    "precache-manifest.2a2eada0e6936080d8fbe9b5a262f42f.js": "/Neha/precache-manifest.2a2eada0e6936080d8fbe9b5a262f42f.js",
     "service-worker.js": "/Neha/service-worker.js",
     "static/css/3.c508d8b9.chunk.css.map": "/Neha/static/css/3.c508d8b9.chunk.css.map",
     "static/css/4.f0b7a320.chunk.css.map": "/Neha/static/css/4.f0b7a320.chunk.css.map",
-    "static/css/main.d1f649eb.chunk.css.map": "/Neha/static/css/main.d1f649eb.chunk.css.map",
+    "static/css/main.8ad67300.chunk.css.map": "/Neha/static/css/main.8ad67300.chunk.css.map",
     "static/media/index.css": "/Neha/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/aws-logo.png": "/Neha/static/media/aws-logo.4a50b1b3.png",
     "static/media/cognizant-logo.png": "/Neha/static/media/cognizant-logo.d0a70bf3.png",
@@ -47,9 +47,9 @@
     "static/media/zero-to-mastery.png": "/Neha/static/media/zero-to-mastery.d0a70af7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd811be0.js",
-    "static/js/2.06d56d69.chunk.js",
-    "static/css/main.d1f649eb.chunk.css",
-    "static/js/main.c806d684.chunk.js"
+    "static/js/runtime-main.53169cb3.js",
+    "static/js/2.5047e79f.chunk.js",
+    "static/css/main.8ad67300.chunk.css",
+    "static/js/main.7242959c.chunk.js"
   ]
 }
